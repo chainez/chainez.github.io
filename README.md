@@ -1,1 +1,1 @@
-voici le lien de notre association : [association](https://chainez.github.io/)
+voici le lien de notre association : https://chainez.github.io/
