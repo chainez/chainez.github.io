@@ -1,0 +1,110 @@
+body {
+  background-color: ghostwhite;
+}
+
+nav {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: orange;
+}
+
+nav a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  color: black;
+  font-weight: bold;
+}
+
+div.manif {
+  margin-top: 100px;
+  padding-top: 200px;
+  padding-bottom: 200px;
+	background-image:url("images/slogan.jpg");
+	background-position: center;	
+	background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+  display: block;
+  margin-left : auto ;
+  margin-right: auto ;
+  text-align: center ;
+  display: block ;
+  width: 700px ;
+}
+
+div.manif h1 {
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+}
+
+div.manif p {
+  background-color: rgba(255,255,255,0.7) ;
+  width: 50%;
+  margin-left : auto ;
+  margin-right: auto ;
+}
+
+*.central {
+  text-align: center ;
+}
+
+div.presentation {
+  margin-left : auto ;
+  margin-right: auto ;
+  text-align: center ;
+  display: block ;
+  width: 100% ;
+}
+
+div.presentation > div {
+  border-color: black ;
+  vertical-align: top ;
+  display: inline-block ;
+  height: 480px;
+  width: 400px;
+  margin: auto ;
+  border-style: solid;
+}
+
+div.imgs {
+  margin-top: 20px ;
+  margin-bottom: 20px ;
+}
+
+div.imgs img {
+  width : 30% ;
+  height : 50% ;
+  margin : 2% ;
+  display: block ;
+  margin: auto ;
+}
+
+div.PARTAGE img {
+  padding-top: 50px;
+}
+
+div.PAIX img {
+  padding-top : 50px;
+}
+
+div.description{
+  vertical-align: bottom ;
+  height: 280px;
+  padding: 5% ;
+  margin : auto ;
+  color: black ;
+  font-size: 15.5px ;
+  border-width: 2px 2px ;
+  border-radius : 50px ;
+  overflow: auto ;
+}
+div.description p {
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
